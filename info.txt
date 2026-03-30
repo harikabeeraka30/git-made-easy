@@ -1,0 +1,7 @@
+"hi new info file has created just now"
+
+#commit #1 during squash activity
+
+
+
+
