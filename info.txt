@@ -1,13 +1,5 @@
 this is a critical message that i am going to amend into the previous commit along with this new file
 
-add commit #3
-
-add commit #4
-
-add commit #5
-
-
-
 squash commit #2
 
 squash commit #3
